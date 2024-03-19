@@ -194,4 +194,8 @@ replace (
 	github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	// stick with compatible version of rapid in v0.47.x line
 	pgregory.net/rapid => pgregory.net/rapid v0.5.5
+	github.com/cosmos/cosmos-sdk => github.com/medibloc/cosmos-sdk v0.45.12-panacea.1
+	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
+	github.com/tendermint/tendermint => github.com/informalsystems/tendermint v0.34.24
+	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
